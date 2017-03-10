@@ -14,8 +14,12 @@
           <option name="url" value="http://192.168.0.101" />
           <option name="userName" value="bhadreshchavada" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.0.101/root/emxcel-CustomerAndroidApp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/DriverAndroidApp" />
+    <option name="cloneParentDir" value="$USER_HOME$/Project" />
   </component>
 </application>
